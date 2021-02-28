@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on my PhD!
+🔭 At present, I’m working on my PhD.
 
-⚡ Fun facts →
+⚡ Fun facts :→
 
-![](https://github-readme-stats.vercel.app/api?username=mitthu&show_icons=true&count_private=true&theme=solarized-light)
+![](https://github-readme-stats.vercel.app/api?username=mitthu&show_icons=true&count_private=true&theme=graywhite)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitthu&hide=html&layout=compact&theme=graywhite)
 
 <!--
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Documentation about README stats:
+- https://github.com/anuraghazra/github-readme-stats
 -->
