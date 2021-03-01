@@ -1,7 +1,4 @@
-### Hi there 👋
-🔭 At present, I’m working on my PhD.
-
-⚡ Fun facts :→
+### ⚡ Fun facts
 
 ![](https://github-readme-stats.vercel.app/api?username=mitthu&show_icons=true&count_private=true&theme=graywhite)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitthu&hide=html&layout=compact&theme=graywhite)
